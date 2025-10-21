@@ -1,0 +1,8 @@
+{
+  "id": "RevengeEmbed",
+  "name": "RevengeEmbed",
+  "description": "Local /embed command with your avatar",
+  "version": "1.0.0",
+  "author": "Rose",
+  "main": "https://raw.githubusercontent.com/Rozeglitch/test/main/test.js"
+}
